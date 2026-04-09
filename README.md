@@ -1,0 +1,1 @@
+# farmacia-aws-reducao-custos
